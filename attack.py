@@ -20,7 +20,7 @@
 
 
 
-import syscmzklmcksl
+import sys
 
 import struct
 
